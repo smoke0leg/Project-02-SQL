@@ -1,4 +1,4 @@
-# Проект 01. "Очистка и анализ данных о заработной плате"
+# Проект 02. "Анализ базы данных компании Head Hunter"
 
 ## Оглавление 
 [1. Описание проекта](README.md#Описание-проекта)  
@@ -24,7 +24,7 @@
 ### Краткая информация о данных
 Для работы над проектом была использована Postgre SQL база данных компании Head Hunter. База данных содержит в себе нескольких таблиц содержащих следующую информацию:
 VACANCIES:
-![структура VACANCIES](https://www.dropbox.com/s/pgb8wijzp7qq78f/SQL_pj2_2_2.png?dl=1)
+![структура VACANCIES](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xLfQM4gVuENkJi9GDGU3Sm6PR_l6a1Bj)
 
 
 :arrow_up:[к оглавлению](README.md#Оглавление)
