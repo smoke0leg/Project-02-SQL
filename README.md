@@ -24,7 +24,7 @@
 ### Краткая информация о данных
 Для работы над проектом была использована Postgre SQL база данных компании Head Hunter. База данных содержит в себе нескольких таблиц содержащих следующую информацию:
 VACANCIES:
-![структура VACANCIES](https://www.dropbox.com/s/pgb8wijzp7qq78f/SQL_pj2_2_2.png?dl=1)
+![структура VACANCIES](https://www.dropbox.com/s/pgb8wijzp7qq78f/SQL_pj2_2_2.png?dl=0)
 
 
 :arrow_up:[к оглавлению](README.md#Оглавление)
