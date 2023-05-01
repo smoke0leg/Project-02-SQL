@@ -24,10 +24,28 @@
 ### Краткая информация о данных
 Для работы над проектом была использована Postgre SQL база данных компании Head Hunter. База данных содержит в себе нескольких таблиц содержащих следующую информацию:
 VACANCIES:
+Таблица хранит в себе данные по вакансиям и содержит следующие столбцы:
 ![структура VACANCIES](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xLfQM4gVuENkJi9GDGU3Sm6PR_l6a1Bj)
 
+AREAS:
+Таблица-справочник, которая хранит код города и его название
+![структура AREAS](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1GMov5xltQVy5w2v-P63d_hkzxjHoA1c2)
 
-:arrow_up:[к оглавлению](README.md#Оглавление)
+EMPLOYERS:
+Таблица-справочник со списком работодателей
+![структура EMPLOYERS](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1wpwqkGGu-2NerUFTYCLyksNBFwV8JqWX)
+
+INDUSTRIES:
+Таблица-справочник вариантов сфер деятельности работодателей
+![структура INDUSTRIES](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1NtcBr1_Ji2NnOfZ2JdY-d38Mj1IOaVAw)
+
+EMPLOYERS_INDUSTRIES:
+Дополнительная таблица, которая существует для организации связи между работодателями и сферами их деятельности
+![структура EMPLOYERS_INDUSTRIES](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=19Fsoopp91NNnWmUJNKQ4HT0njmJFuDwX)
+
+Пересечение таблиц:
+Структура пересечения таблиц
+![структура Пересечения таблиц](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1uO8ebgvR9TVEop4eh4UYkJRM1E7uFfkf)
 
 
 ### Этапы работы над проектом  
