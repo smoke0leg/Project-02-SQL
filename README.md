@@ -31,8 +31,6 @@ AREAS:
 Таблица-справочник, которая хранит код города и его название
 ![структура AREAS](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1GMov5xltQVy5w2v-P63d_hkzxjHoA1c2)
 
-https://drive.google.com/file/d/1GMov5xltQVy5w2v-P63d_hkzxjHoA1c2/view?usp=share_link
-
 EMPLOYERS:
 Таблица-справочник со списком работодателей
 ![структура EMPLOYERS](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1wpwqkGGu-2NerUFTYCLyksNBFwV8JqWX)
